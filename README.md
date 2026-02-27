@@ -196,46 +196,7 @@ With the synthetic dataset, typical metrics are:
 | 7 | Well documented code | Comments in all `.py` files, docstrings on all functions |
 | 8 | Contributions tracking | `CONTRIBUTIONS.md` |
 
----
 
-## 🎬 4-Minute Demo Video – Talk Track Outline
-
-### Slide 1: Introduction (30s)
-- Project name & team members
-- Problem: "How does weather affect energy consumption?"
-- Goal: predict and optimize
-
-### Slide 2: Live Demo – Dashboard (60s)
-- Show KPI cards on home page
-- Navigate to Dashboard
-- Switch cities in sidebar, change date range
-- Point out dual-axis chart and scatter plot
-
-### Slide 3: Live Demo – Data (45s)
-- Show Data Explorer with filters
-- Point out correlation heatmap
-- Navigate to Add Data, add a new record
-- Show it appears in the table
-
-### Slide 4: Live Demo – ML (60s)
-- Click "Train Model"
-- Show R², MAE, RMSE metrics
-- Show predicted vs actual scatter
-- Show feature importance
-- Enter manual weather values → get prediction
-- Fetch forecast → show predictions for next 7 days
-
-### Slide 5: Architecture & Tech (30s)
-- Show file structure
-- Mention: Streamlit, SQLite, Open-Meteo API, scikit-learn, Plotly
-- Highlight offline fallback mechanism
-
-### Slide 6: Conclusion (15s)
-- Summary of what was built
-- What we learned
-- Thank the audience
-
----
 
 ## 👥 Team
 
